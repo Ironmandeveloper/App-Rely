@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146331595216",
+    "project_id": "apprely-2f939",
+    "storage_bucket": "apprely-2f939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146331595216:android:251cc4755adffb144989d5",
+        "android_client_info": {
+          "package_name": "com.sparkAi.mqttproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146331595216-mqbvmhfjsdkalm8aus976bibjqi1kpoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtudX7al9Gyv_v_Kp4LNI1HbZ5jDWlh7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146331595216-mqbvmhfjsdkalm8aus976bibjqi1kpoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
